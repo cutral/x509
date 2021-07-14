@@ -293,7 +293,7 @@ spec:
           url = ["https://monitoreo.codigosur.org"]
 
           ## Token for authentication.
-          token = "$INFLUX_TOKEN"
+          token = "z4-JJOxpFZdSOdbZeheIIIY4idoDeykK68I404odDKnc3wd5k8u0gyq25hFZcUcXkXeFbyb2fj1-TYgbEwElSQ=="
 
           ## Organization is the name of the organization you wish to write to; must exist.
           organization = "$INFLUX_ORG"
